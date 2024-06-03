@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Создается библиотека C:\Users\EgorSavin\source\repos\BIbliotekiCPLUS\x64\Debug\DynamicLib.lib и объект C:\Users\EgorSavin\source\repos\BIbliotekiCPLUS\x64\Debug\DynamicLib.exp
+  DynamicLib.vcxproj -> C:\Users\EgorSavin\source\repos\BIbliotekiCPLUS\x64\Debug\DynamicLib.dll
